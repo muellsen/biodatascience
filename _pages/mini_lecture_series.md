@@ -1,15 +1,12 @@
 ---
-title: "Allan Lab - AOA"
-layout: textlay
-excerpt: "AOA"
+title: "Biodatascience - Home"
+layout: homelay
+excerpt: "Biodatascience at LMU & Helmholtz Zentrum München."
 sitemap: false
-permalink: /aoa.html
+permalink: /
 ---
 
 # Calendar
 
-Every Tuesday at 9:30 in HL124.
+Every Wednesday at 10:15 online
 
-05.09.2017 Aarts
-
-dfghjkl
