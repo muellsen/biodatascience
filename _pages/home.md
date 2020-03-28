@@ -1,12 +1,14 @@
 ---
-title: "Allan Lab - Home"
+title: "Biodatascience - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Biodatascience at LMU & Helmholtz Zentrum München."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a research group at the [Department of Statistics, LMU München](https://www.en.statistik.uni-muenchen.de/index.html)
+and the [Institute of Computational Biology, Helmholtz Zentrum München](https://www.helmholtz-muenchen.de/icb/index.html) 
+Our aim is to develop statistical algorithms for biological high-throughput data, most prominently microbiome data.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
