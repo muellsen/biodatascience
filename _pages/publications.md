@@ -1,5 +1,5 @@
 ---
-title: "Biodatascience - Home"
+title: "Biodatascience - Publications"
 layout: homelay
 excerpt: "Biodatascience at LMU & Helmholtz Zentrum München."
 sitemap: false
