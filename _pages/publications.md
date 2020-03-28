@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Publications"
-layout: gridlay
-excerpt: "Allan Lab -- Publications."
+title: "Biodatascience - Home"
+layout: homelay
+excerpt: "Biodatascience at LMU & Helmholtz Zentrum München."
 sitemap: false
-permalink: /publications/
+permalink: /
 ---
 
 
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.de/citations?user=zplWERYAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Christian_Mueller14))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
